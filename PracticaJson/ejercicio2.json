@@ -1,0 +1,9 @@
+{
+  "usuario": "Santiago",
+  "amigos_usuario": [
+    "Franco",
+    "Lucia",
+    "Leonel"
+  ],
+  "notificaciones_usuario": true
+}

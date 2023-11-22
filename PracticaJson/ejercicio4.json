@@ -1,0 +1,35 @@
+{
+  "productos": [
+    {
+      "nombre": "Producto A",
+      "precio": 45.99,
+      "existencias": 100,
+      "descuento_disponible": true,
+      "etiquetas": [ "nuevo", "oferta" ],
+      "detalles": {
+        "peso": 0.5,
+        "dimensiones": {
+          "alto": 10,
+          "ancho": 5,
+          "profundidad": 2
+        }
+      }
+    },
+    {
+      "nombre": "Producto B",
+      "precio": 15.00,
+      "existencias": 200,
+      "descuento_disponible": false,
+      "etiquetas": [ "usado", "oferta" ],
+      "detalles": {
+        "peso": 1,
+        "dimensiones": {
+          "alto": 20,
+          "ancho": 15,
+          "profundidad": 5
+        }
+      }
+    }
+  ]
+  
+}

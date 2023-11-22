@@ -1,0 +1,25 @@
+{
+  "estadistica": [
+    {
+      "equipo": "NaVi",
+      "jugadores": [
+        {
+          "nombre": "S1mple",
+          "kills": 15,
+          "death": 2
+        },
+        {
+          "nombre": "iM",
+          "kills": 10,
+          "death": 8
+        },
+        {
+          "nombre": "Aleksib",
+          "kills": 5,
+          "death": 5
+        }
+      ],
+      "campeon": true
+    }
+  ]
+}
